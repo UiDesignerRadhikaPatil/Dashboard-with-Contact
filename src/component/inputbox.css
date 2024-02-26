@@ -1,0 +1,22 @@
+.inputbox-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    
+}
+
+.inputfield{
+    display: flex;
+   
+    /* background-color: blueviolet; */
+}
+
+.inputfield input{
+    width: 100%;
+    height: 60px;  
+    /* border: none; */
+    border-radius: 10px;
+    font-size: 14px;
+
+}
